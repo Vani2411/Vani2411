@@ -38,16 +38,14 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></code>
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"></code>
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-  
   
 </p>
 
