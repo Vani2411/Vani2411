@@ -3,12 +3,13 @@
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
--->
+
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Vani2411)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/vaidehi-vani-a61868184))
 
 &nbsp;
+-->
 
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
@@ -21,7 +22,7 @@ You can use the website to generate badges: https://shields.io/
 - 🤔 I’m looking for mentoring to get my first job 😭
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: I have a degree in computer engineering
-- 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/vaidehi-vani-a61868184)
+- 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vaidehi-vani-a61868184)
 
 **Languages and Tools:** 
 
