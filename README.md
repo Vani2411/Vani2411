@@ -6,7 +6,7 @@ You can use the website to generate badges: https://shields.io/
 -->
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Vani2411)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([www.linkedin.com/in/vaidehi-vani-a61868184](https://www.linkedin.com/in/vaidehi-vani-a61868184))
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/vaidehi-vani-a61868184]))
 
 &nbsp;
 
